@@ -1,0 +1,2005 @@
+new 1100,1100 
+string 20,20 {2017: Sebastian Värv, NN + multistart local search, etc. Score: 24573.215713941554 } :tekst
+coordsys west south right up
+origin 50,50
+fcircle 94,880 3 :p1
+fcircle 386,538 3 :p2
+fcircle 751,884 3 :p3
+fcircle 375,246 3 :p4
+fcircle 286,64 3 :p5
+fcircle 255,597 3 :p6
+fcircle 448,980 3 :p7
+fcircle 758,251 3 :p8
+fcircle 260,872 3 :p9
+fcircle 598,89 3 :p10
+fcircle 706,57 3 :p11
+fcircle 988,262 3 :p12
+fcircle 479,988 3 :p13
+fcircle 440,26 3 :p14
+fcircle 355,535 3 :p15
+fcircle 393,37 3 :p16
+fcircle 910,808 3 :p17
+fcircle 753,90 3 :p18
+fcircle 532,151 3 :p19
+fcircle 677,941 3 :p20
+fcircle 679,323 3 :p21
+fcircle 399,839 3 :p22
+fcircle 38,62 3 :p23
+fcircle 696,111 3 :p24
+fcircle 834,100 3 :p25
+fcircle 779,96 3 :p26
+fcircle 857,726 3 :p27
+fcircle 355,359 3 :p28
+fcircle 287,332 3 :p29
+fcircle 972,432 3 :p30
+fcircle 69,315 3 :p31
+fcircle 73,846 3 :p32
+fcircle 60,673 3 :p33
+fcircle 802,437 3 :p34
+fcircle 485,641 3 :p35
+fcircle 151,443 3 :p36
+fcircle 351,562 3 :p37
+fcircle 560,641 3 :p38
+fcircle 346,610 3 :p39
+fcircle 353,547 3 :p40
+fcircle 802,55 3 :p41
+fcircle 109,786 3 :p42
+fcircle 326,51 3 :p43
+fcircle 220,50 3 :p44
+fcircle 557,763 3 :p45
+fcircle 681,416 3 :p46
+fcircle 913,326 3 :p47
+fcircle 928,124 3 :p48
+fcircle 377,358 3 :p49
+fcircle 997,602 3 :p50
+fcircle 950,556 3 :p51
+fcircle 2,413 3 :p52
+fcircle 103,229 3 :p53
+fcircle 232,995 3 :p54
+fcircle 750,388 3 :p55
+fcircle 828,292 3 :p56
+fcircle 237,321 3 :p57
+fcircle 974,278 3 :p58
+fcircle 761,237 3 :p59
+fcircle 705,845 3 :p60
+fcircle 257,879 3 :p61
+fcircle 550,542 3 :p62
+fcircle 141,594 3 :p63
+fcircle 116,309 3 :p64
+fcircle 568,803 3 :p65
+fcircle 10,56 3 :p66
+fcircle 30,543 3 :p67
+fcircle 25,831 3 :p68
+fcircle 657,594 3 :p69
+fcircle 601,412 3 :p70
+fcircle 488,873 3 :p71
+fcircle 248,512 3 :p72
+fcircle 111,411 3 :p73
+fcircle 809,19 3 :p74
+fcircle 272,259 3 :p75
+fcircle 376,881 3 :p76
+fcircle 641,601 3 :p77
+fcircle 879,518 3 :p78
+fcircle 687,826 3 :p79
+fcircle 304,145 3 :p80
+fcircle 147,153 3 :p81
+fcircle 293,739 3 :p82
+fcircle 703,20 3 :p83
+fcircle 149,772 3 :p84
+fcircle 173,943 3 :p85
+fcircle 842,461 3 :p86
+fcircle 421,147 3 :p87
+fcircle 221,241 3 :p88
+fcircle 804,290 3 :p89
+fcircle 768,383 3 :p90
+fcircle 773,99 3 :p91
+fcircle 773,67 3 :p92
+fcircle 151,311 3 :p93
+fcircle 980,381 3 :p94
+fcircle 987,772 3 :p95
+fcircle 431,552 3 :p96
+fcircle 135,787 3 :p97
+fcircle 465,358 3 :p98
+fcircle 9,440 3 :p99
+fcircle 589,29 3 :p100
+fcircle 158,781 3 :p101
+fcircle 834,721 3 :p102
+fcircle 522,851 3 :p103
+fcircle 542,796 3 :p104
+fcircle 620,31 3 :p105
+fcircle 436,800 3 :p106
+fcircle 651,162 3 :p107
+fcircle 815,315 3 :p108
+fcircle 957,239 3 :p109
+fcircle 551,336 3 :p110
+fcircle 741,897 3 :p111
+fcircle 965,708 3 :p112
+fcircle 32,721 3 :p113
+fcircle 984,479 3 :p114
+fcircle 829,999 3 :p115
+fcircle 116,80 3 :p116
+fcircle 268,530 3 :p117
+fcircle 812,644 3 :p118
+fcircle 550,703 3 :p119
+fcircle 624,663 3 :p120
+fcircle 838,95 3 :p121
+fcircle 103,930 3 :p122
+fcircle 266,402 3 :p123
+fcircle 557,367 3 :p124
+fcircle 648,609 3 :p125
+fcircle 214,764 3 :p126
+fcircle 142,875 3 :p127
+fcircle 146,861 3 :p128
+fcircle 557,896 3 :p129
+fcircle 633,893 3 :p130
+fcircle 737,284 3 :p131
+fcircle 939,910 3 :p132
+fcircle 505,243 3 :p133
+fcircle 431,823 3 :p134
+fcircle 449,87 3 :p135
+fcircle 177,350 3 :p136
+fcircle 766,747 3 :p137
+fcircle 76,354 3 :p138
+fcircle 789,618 3 :p139
+fcircle 819,733 3 :p140
+fcircle 563,35 3 :p141
+fcircle 745,885 3 :p142
+fcircle 58,394 3 :p143
+fcircle 719,359 3 :p144
+fcircle 655,840 3 :p145
+fcircle 298,778 3 :p146
+fcircle 441,366 3 :p147
+fcircle 697,173 3 :p148
+fcircle 314,813 3 :p149
+fcircle 771,178 3 :p150
+fcircle 947,208 3 :p151
+fcircle 623,725 3 :p152
+fcircle 330,96 3 :p153
+fcircle 553,324 3 :p154
+fcircle 868,462 3 :p155
+fcircle 174,208 3 :p156
+fcircle 272,671 3 :p157
+fcircle 466,582 3 :p158
+fcircle 673,784 3 :p159
+fcircle 653,404 3 :p160
+fcircle 279,213 3 :p161
+fcircle 554,140 3 :p162
+fcircle 300,827 3 :p163
+fcircle 71,209 3 :p164
+fcircle 67,188 3 :p165
+fcircle 752,544 3 :p166
+fcircle 856,309 3 :p167
+fcircle 743,314 3 :p168
+fcircle 672,260 3 :p169
+fcircle 541,24 3 :p170
+fcircle 623,622 3 :p171
+fcircle 801,507 3 :p172
+fcircle 692,618 3 :p173
+fcircle 323,885 3 :p174
+fcircle 84,952 3 :p175
+fcircle 353,32 3 :p176
+fcircle 438,723 3 :p177
+fcircle 545,40 3 :p178
+fcircle 427,236 3 :p179
+fcircle 502,401 3 :p180
+fcircle 444,90 3 :p181
+fcircle 491,174 3 :p182
+fcircle 594,459 3 :p183
+fcircle 72,78 3 :p184
+fcircle 271,170 3 :p185
+fcircle 326,886 3 :p186
+fcircle 480,707 3 :p187
+fcircle 699,478 3 :p188
+fcircle 361,83 3 :p189
+fcircle 131,617 3 :p190
+fcircle 353,147 3 :p191
+fcircle 852,809 3 :p192
+fcircle 15,936 3 :p193
+fcircle 666,106 3 :p194
+fcircle 875,565 3 :p195
+fcircle 526,385 3 :p196
+fcircle 213,742 3 :p197
+fcircle 70,653 3 :p198
+fcircle 395,405 3 :p199
+fcircle 526,162 3 :p200
+fcircle 85,497 3 :p201
+fcircle 997,429 3 :p202
+fcircle 332,316 3 :p203
+fcircle 765,426 3 :p204
+fcircle 342,790 3 :p205
+fcircle 500,696 3 :p206
+fcircle 522,27 3 :p207
+fcircle 500,757 3 :p208
+fcircle 857,445 3 :p209
+fcircle 553,834 3 :p210
+fcircle 400,38 3 :p211
+fcircle 225,609 3 :p212
+fcircle 897,92 3 :p213
+fcircle 240,718 3 :p214
+fcircle 747,995 3 :p215
+fcircle 768,117 3 :p216
+fcircle 209,206 3 :p217
+fcircle 518,136 3 :p218
+fcircle 535,807 3 :p219
+fcircle 240,32 3 :p220
+fcircle 282,147 3 :p221
+fcircle 938,605 3 :p222
+fcircle 77,551 3 :p223
+fcircle 637,997 3 :p224
+fcircle 627,937 3 :p225
+fcircle 864,167 3 :p226
+fcircle 310,937 3 :p227
+fcircle 286,731 3 :p228
+fcircle 842,44 3 :p229
+fcircle 544,492 3 :p230
+fcircle 516,656 3 :p231
+fcircle 814,92 3 :p232
+fcircle 558,241 3 :p233
+fcircle 849,870 3 :p234
+fcircle 231,247 3 :p235
+fcircle 10,366 3 :p236
+fcircle 113,669 3 :p237
+fcircle 626,510 3 :p238
+fcircle 377,186 3 :p239
+fcircle 751,615 3 :p240
+fcircle 936,624 3 :p241
+fcircle 367,867 3 :p242
+fcircle 898,832 3 :p243
+fcircle 172,377 3 :p244
+fcircle 174,196 3 :p245
+fcircle 373,627 3 :p246
+fcircle 295,455 3 :p247
+fcircle 376,503 3 :p248
+fcircle 61,843 3 :p249
+fcircle 623,322 3 :p250
+fcircle 511,61 3 :p251
+fcircle 277,498 3 :p252
+fcircle 895,151 3 :p253
+fcircle 368,550 3 :p254
+fcircle 532,929 3 :p255
+fcircle 634,257 3 :p256
+fcircle 239,564 3 :p257
+fcircle 826,165 3 :p258
+fcircle 948,769 3 :p259
+fcircle 918,734 3 :p260
+fcircle 156,577 3 :p261
+fcircle 441,853 3 :p262
+fcircle 448,210 3 :p263
+fcircle 445,670 3 :p264
+fcircle 885,989 3 :p265
+fcircle 868,991 3 :p266
+fcircle 904,873 3 :p267
+fcircle 92,212 3 :p268
+fcircle 306,96 3 :p269
+fcircle 223,783 3 :p270
+fcircle 247,647 3 :p271
+fcircle 16,938 3 :p272
+fcircle 996,353 3 :p273
+fcircle 187,202 3 :p274
+fcircle 836,885 3 :p275
+fcircle 23,502 3 :p276
+fcircle 438,890 3 :p277
+fcircle 189,445 3 :p278
+fcircle 367,178 3 :p279
+fcircle 609,928 3 :p280
+fcircle 170,467 3 :p281
+fcircle 283,207 3 :p282
+fcircle 697,31 3 :p283
+fcircle 245,315 3 :p284
+fcircle 273,898 3 :p285
+fcircle 308,288 3 :p286
+fcircle 115,232 3 :p287
+fcircle 194,579 3 :p288
+fcircle 613,701 3 :p289
+fcircle 572,751 3 :p290
+fcircle 700,973 3 :p291
+fcircle 973,685 3 :p292
+fcircle 695,758 3 :p293
+fcircle 613,96 3 :p294
+fcircle 431,808 3 :p295
+fcircle 612,716 3 :p296
+fcircle 788,76 3 :p297
+fcircle 567,681 3 :p298
+fcircle 595,330 3 :p299
+fcircle 30,36 3 :p300
+fcircle 254,279 3 :p301
+fcircle 276,932 3 :p302
+fcircle 871,71 3 :p303
+fcircle 146,765 3 :p304
+fcircle 646,381 3 :p305
+fcircle 562,727 3 :p306
+fcircle 204,489 3 :p307
+fcircle 859,735 3 :p308
+fcircle 172,479 3 :p309
+fcircle 23,698 3 :p310
+fcircle 183,55 3 :p311
+fcircle 651,130 3 :p312
+fcircle 618,455 3 :p313
+fcircle 294,97 3 :p314
+fcircle 202,423 3 :p315
+fcircle 363,38 3 :p316
+fcircle 661,478 3 :p317
+fcircle 971,297 3 :p318
+fcircle 102,338 3 :p319
+fcircle 632,228 3 :p320
+fcircle 773,68 3 :p321
+fcircle 289,980 3 :p322
+fcircle 373,491 3 :p323
+fcircle 627,540 3 :p324
+fcircle 610,774 3 :p325
+fcircle 218,537 3 :p326
+fcircle 198,767 3 :p327
+fcircle 912,453 3 :p328
+fcircle 847,43 3 :p329
+fcircle 840,235 3 :p330
+fcircle 844,429 3 :p331
+fcircle 765,514 3 :p332
+fcircle 922,695 3 :p333
+fcircle 763,265 3 :p334
+fcircle 918,597 3 :p335
+fcircle 791,548 3 :p336
+fcircle 40,542 3 :p337
+fcircle 830,875 3 :p338
+fcircle 19,33 3 :p339
+fcircle 426,765 3 :p340
+fcircle 78,52 3 :p341
+fcircle 598,394 3 :p342
+fcircle 170,633 3 :p343
+fcircle 839,161 3 :p344
+fcircle 781,665 3 :p345
+fcircle 863,128 3 :p346
+fcircle 218,224 3 :p347
+fcircle 718,885 3 :p348
+fcircle 699,291 3 :p349
+fcircle 49,766 3 :p350
+fcircle 70,223 3 :p351
+fcircle 713,579 3 :p352
+fcircle 873,782 3 :p353
+fcircle 394,157 3 :p354
+fcircle 243,490 3 :p355
+fcircle 580,31 3 :p356
+fcircle 192,668 3 :p357
+fcircle 693,62 3 :p358
+fcircle 704,203 3 :p359
+fcircle 649,893 3 :p360
+fcircle 688,252 3 :p361
+fcircle 833,759 3 :p362
+fcircle 375,927 3 :p363
+fcircle 867,601 3 :p364
+fcircle 741,238 3 :p365
+fcircle 443,178 3 :p366
+fcircle 36,139 3 :p367
+fcircle 515,102 3 :p368
+fcircle 363,436 3 :p369
+fcircle 816,597 3 :p370
+fcircle 524,328 3 :p371
+fcircle 664,455 3 :p372
+fcircle 233,692 3 :p373
+fcircle 624,770 3 :p374
+fcircle 309,466 3 :p375
+fcircle 582,904 3 :p376
+fcircle 144,181 3 :p377
+fcircle 110,791 3 :p378
+fcircle 535,81 3 :p379
+fcircle 602,532 3 :p380
+fcircle 885,326 3 :p381
+fcircle 129,903 3 :p382
+fcircle 559,371 3 :p383
+fcircle 393,191 3 :p384
+fcircle 320,161 3 :p385
+fcircle 851,931 3 :p386
+fcircle 883,814 3 :p387
+fcircle 201,24 3 :p388
+fcircle 654,678 3 :p389
+fcircle 982,12 3 :p390
+fcircle 108,508 3 :p391
+fcircle 387,481 3 :p392
+fcircle 418,755 3 :p393
+fcircle 78,829 3 :p394
+fcircle 234,24 3 :p395
+fcircle 493,457 3 :p396
+fcircle 702,620 3 :p397
+fcircle 895,586 3 :p398
+fcircle 143,918 3 :p399
+fcircle 165,813 3 :p400
+fcircle 589,360 3 :p401
+fcircle 767,577 3 :p402
+fcircle 637,171 3 :p403
+fcircle 468,328 3 :p404
+fcircle 491,938 3 :p405
+fcircle 644,298 3 :p406
+fcircle 747,719 3 :p407
+fcircle 547,840 3 :p408
+fcircle 356,305 3 :p409
+fcircle 824,722 3 :p410
+fcircle 303,943 3 :p411
+fcircle 91,161 3 :p412
+fcircle 288,679 3 :p413
+fcircle 350,504 3 :p414
+fcircle 1,441 3 :p415
+fcircle 808,140 3 :p416
+fcircle 149,778 3 :p417
+fcircle 740,640 3 :p418
+fcircle 233,672 3 :p419
+fcircle 920,132 3 :p420
+fcircle 156,821 3 :p421
+fcircle 4,304 3 :p422
+fcircle 10,83 3 :p423
+fcircle 748,987 3 :p424
+fcircle 306,418 3 :p425
+fcircle 873,398 3 :p426
+fcircle 177,132 3 :p427
+fcircle 596,614 3 :p428
+fcircle 697,19 3 :p429
+fcircle 801,615 3 :p430
+fcircle 971,260 3 :p431
+fcircle 478,91 3 :p432
+fcircle 469,490 3 :p433
+fcircle 551,704 3 :p434
+fcircle 656,174 3 :p435
+fcircle 718,301 3 :p436
+fcircle 137,495 3 :p437
+fcircle 135,937 3 :p438
+fcircle 651,20 3 :p439
+fcircle 78,62 3 :p440
+fcircle 542,802 3 :p441
+fcircle 469,731 3 :p442
+fcircle 42,935 3 :p443
+fcircle 880,762 3 :p444
+fcircle 519,335 3 :p445
+fcircle 320,762 3 :p446
+fcircle 878,183 3 :p447
+fcircle 516,595 3 :p448
+fcircle 642,766 3 :p449
+fcircle 77,904 3 :p450
+fcircle 932,594 3 :p451
+fcircle 880,573 3 :p452
+fcircle 83,733 3 :p453
+fcircle 380,810 3 :p454
+fcircle 922,308 3 :p455
+fcircle 470,645 3 :p456
+fcircle 722,278 3 :p457
+fcircle 911,951 3 :p458
+fcircle 306,879 3 :p459
+fcircle 382,404 3 :p460
+fcircle 107,978 3 :p461
+fcircle 482,541 3 :p462
+fcircle 861,631 3 :p463
+fcircle 951,74 3 :p464
+fcircle 783,310 3 :p465
+fcircle 94,792 3 :p466
+fcircle 203,829 3 :p467
+fcircle 541,674 3 :p468
+fcircle 790,201 3 :p469
+fcircle 857,627 3 :p470
+fcircle 316,561 3 :p471
+fcircle 878,544 3 :p472
+fcircle 860,393 3 :p473
+fcircle 438,82 3 :p474
+fcircle 909,500 3 :p475
+fcircle 362,676 3 :p476
+fcircle 943,184 3 :p477
+fcircle 273,330 3 :p478
+fcircle 150,602 3 :p479
+fcircle 982,650 3 :p480
+fcircle 201,380 3 :p481
+fcircle 874,474 3 :p482
+fcircle 889,616 3 :p483
+fcircle 825,285 3 :p484
+fcircle 576,755 3 :p485
+fcircle 406,978 3 :p486
+fcircle 10,778 3 :p487
+fcircle 701,547 3 :p488
+fcircle 318,172 3 :p489
+fcircle 162,916 3 :p490
+fcircle 959,365 3 :p491
+fcircle 19,628 3 :p492
+fcircle 648,557 3 :p493
+fcircle 686,976 3 :p494
+fcircle 807,928 3 :p495
+fcircle 953,579 3 :p496
+fcircle 836,292 3 :p497
+fcircle 79,549 3 :p498
+fcircle 429,833 3 :p499
+fcircle 836,358 3 :p500
+fcircle 556,234 3 :p501
+fcircle 448,45 3 :p502
+fcircle 521,455 3 :p503
+fcircle 932,656 3 :p504
+fcircle 316,494 3 :p505
+fcircle 557,27 3 :p506
+fcircle 207,778 3 :p507
+fcircle 970,397 3 :p508
+fcircle 145,304 3 :p509
+fcircle 479,640 3 :p510
+fcircle 919,372 3 :p511
+fcircle 318,400 3 :p512
+fcircle 471,794 3 :p513
+fcircle 464,320 3 :p514
+fcircle 107,738 3 :p515
+fcircle 253,278 3 :p516
+fcircle 307,267 3 :p517
+fcircle 278,716 3 :p518
+fcircle 67,771 3 :p519
+fcircle 557,285 3 :p520
+fcircle 464,598 3 :p521
+fcircle 997,316 3 :p522
+fcircle 846,679 3 :p523
+fcircle 595,482 3 :p524
+fcircle 456,730 3 :p525
+fcircle 622,309 3 :p526
+fcircle 749,20 3 :p527
+fcircle 89,312 3 :p528
+fcircle 205,829 3 :p529
+fcircle 879,797 3 :p530
+fcircle 460,658 3 :p531
+fcircle 46,369 3 :p532
+fcircle 432,575 3 :p533
+fcircle 277,608 3 :p534
+fcircle 135,331 3 :p535
+fcircle 685,934 3 :p536
+fcircle 816,216 3 :p537
+fcircle 841,591 3 :p538
+fcircle 149,240 3 :p539
+fcircle 748,615 3 :p540
+fcircle 649,478 3 :p541
+fcircle 909,461 3 :p542
+fcircle 347,505 3 :p543
+fcircle 276,272 3 :p544
+fcircle 709,164 3 :p545
+fcircle 65,982 3 :p546
+fcircle 763,611 3 :p547
+fcircle 804,254 3 :p548
+fcircle 512,281 3 :p549
+fcircle 561,509 3 :p550
+fcircle 753,983 3 :p551
+fcircle 921,840 3 :p552
+fcircle 935,838 3 :p553
+fcircle 575,683 3 :p554
+fcircle 436,647 3 :p555
+fcircle 324,727 3 :p556
+fcircle 431,34 3 :p557
+fcircle 251,394 3 :p558
+fcircle 116,537 3 :p559
+fcircle 815,317 3 :p560
+fcircle 736,413 3 :p561
+fcircle 759,942 3 :p562
+fcircle 102,374 3 :p563
+fcircle 174,557 3 :p564
+fcircle 960,723 3 :p565
+fcircle 541,718 3 :p566
+fcircle 974,196 3 :p567
+fcircle 472,92 3 :p568
+fcircle 484,604 3 :p569
+fcircle 499,600 3 :p570
+fcircle 872,575 3 :p571
+fcircle 195,518 3 :p572
+fcircle 881,973 3 :p573
+fcircle 144,715 3 :p574
+fcircle 832,260 3 :p575
+fcircle 483,605 3 :p576
+fcircle 412,927 3 :p577
+fcircle 596,163 3 :p578
+fcircle 528,490 3 :p579
+fcircle 913,458 3 :p580
+fcircle 264,271 3 :p581
+fcircle 919,804 3 :p582
+fcircle 66,505 3 :p583
+fcircle 496,726 3 :p584
+fcircle 838,323 3 :p585
+fcircle 469,210 3 :p586
+fcircle 599,852 3 :p587
+fcircle 7,116 3 :p588
+fcircle 829,472 3 :p589
+fcircle 814,487 3 :p590
+fcircle 625,911 3 :p591
+fcircle 302,683 3 :p592
+fcircle 790,69 3 :p593
+fcircle 312,694 3 :p594
+fcircle 788,717 3 :p595
+fcircle 56,593 3 :p596
+fcircle 128,651 3 :p597
+fcircle 611,268 3 :p598
+fcircle 906,529 3 :p599
+fcircle 188,290 3 :p600
+fcircle 212,129 3 :p601
+fcircle 188,965 3 :p602
+fcircle 699,820 3 :p603
+fcircle 340,340 3 :p604
+fcircle 384,564 3 :p605
+fcircle 536,539 3 :p606
+fcircle 417,313 3 :p607
+fcircle 933,477 3 :p608
+fcircle 181,364 3 :p609
+fcircle 748,572 3 :p610
+fcircle 145,423 3 :p611
+fcircle 699,797 3 :p612
+fcircle 5,265 3 :p613
+fcircle 84,626 3 :p614
+fcircle 83,45 3 :p615
+fcircle 105,381 3 :p616
+fcircle 807,252 3 :p617
+fcircle 547,159 3 :p618
+fcircle 489,884 3 :p619
+fcircle 736,60 3 :p620
+fcircle 99,658 3 :p621
+fcircle 626,435 3 :p622
+fcircle 316,666 3 :p623
+fcircle 551,498 3 :p624
+fcircle 743,32 3 :p625
+fcircle 154,34 3 :p626
+fcircle 777,413 3 :p627
+fcircle 884,206 3 :p628
+fcircle 525,24 3 :p629
+fcircle 635,390 3 :p630
+fcircle 209,638 3 :p631
+fcircle 223,654 3 :p632
+fcircle 480,433 3 :p633
+fcircle 518,215 3 :p634
+fcircle 649,748 3 :p635
+fcircle 81,154 3 :p636
+fcircle 287,804 3 :p637
+fcircle 618,601 3 :p638
+fcircle 467,170 3 :p639
+fcircle 723,785 3 :p640
+fcircle 851,398 3 :p641
+fcircle 297,18 3 :p642
+fcircle 256,706 3 :p643
+fcircle 114,195 3 :p644
+fcircle 321,179 3 :p645
+fcircle 81,464 3 :p646
+fcircle 936,411 3 :p647
+fcircle 243,807 3 :p648
+fcircle 429,459 3 :p649
+fcircle 100,519 3 :p650
+fcircle 682,853 3 :p651
+fcircle 859,560 3 :p652
+fcircle 977,219 3 :p653
+fcircle 106,116 3 :p654
+fcircle 856,955 3 :p655
+fcircle 756,52 3 :p656
+fcircle 730,681 3 :p657
+fcircle 865,439 3 :p658
+fcircle 610,748 3 :p659
+fcircle 969,669 3 :p660
+fcircle 744,657 3 :p661
+fcircle 385,456 3 :p662
+fcircle 179,263 3 :p663
+fcircle 629,37 3 :p664
+fcircle 405,326 3 :p665
+fcircle 809,277 3 :p666
+fcircle 204,496 3 :p667
+fcircle 764,927 3 :p668
+fcircle 19,556 3 :p669
+fcircle 770,661 3 :p670
+fcircle 583,833 3 :p671
+fcircle 47,574 3 :p672
+fcircle 858,658 3 :p673
+fcircle 676,760 3 :p674
+fcircle 471,572 3 :p675
+fcircle 340,203 3 :p676
+fcircle 976,406 3 :p677
+fcircle 702,390 3 :p678
+fcircle 46,236 3 :p679
+fcircle 882,465 3 :p680
+fcircle 934,535 3 :p681
+fcircle 226,915 3 :p682
+fcircle 568,148 3 :p683
+fcircle 179,370 3 :p684
+fcircle 827,444 3 :p685
+fcircle 69,126 3 :p686
+fcircle 76,357 3 :p687
+fcircle 917,288 3 :p688
+fcircle 642,716 3 :p689
+fcircle 183,345 3 :p690
+fcircle 802,391 3 :p691
+fcircle 771,529 3 :p692
+fcircle 35,231 3 :p693
+fcircle 354,334 3 :p694
+fcircle 981,426 3 :p695
+fcircle 558,40 3 :p696
+fcircle 61,20 3 :p697
+fcircle 92,511 3 :p698
+fcircle 319,455 3 :p699
+fcircle 16,810 3 :p700
+fcircle 274,761 3 :p701
+fcircle 124,385 3 :p702
+fcircle 776,712 3 :p703
+fcircle 431,617 3 :p704
+fcircle 862,775 3 :p705
+fcircle 789,96 3 :p706
+fcircle 702,141 3 :p707
+fcircle 428,864 3 :p708
+fcircle 182,651 3 :p709
+fcircle 229,438 3 :p710
+fcircle 603,958 3 :p711
+fcircle 519,412 3 :p712
+fcircle 124,193 3 :p713
+fcircle 455,762 3 :p714
+fcircle 983,443 3 :p715
+fcircle 419,427 3 :p716
+fcircle 227,183 3 :p717
+fcircle 257,718 3 :p718
+fcircle 768,909 3 :p719
+fcircle 710,515 3 :p720
+fcircle 378,592 3 :p721
+fcircle 447,874 3 :p722
+fcircle 799,461 3 :p723
+fcircle 163,598 3 :p724
+fcircle 210,247 3 :p725
+fcircle 106,881 3 :p726
+fcircle 761,535 3 :p727
+fcircle 928,277 3 :p728
+fcircle 31,631 3 :p729
+fcircle 367,990 3 :p730
+fcircle 684,399 3 :p731
+fcircle 831,694 3 :p732
+fcircle 228,465 3 :p733
+fcircle 728,409 3 :p734
+fcircle 879,797 3 :p735
+fcircle 225,242 3 :p736
+fcircle 620,947 3 :p737
+fcircle 80,210 3 :p738
+fcircle 728,615 3 :p739
+fcircle 203,818 3 :p740
+fcircle 137,20 3 :p741
+fcircle 408,228 3 :p742
+fcircle 296,44 3 :p743
+fcircle 478,698 3 :p744
+fcircle 566,884 3 :p745
+fcircle 632,675 3 :p746
+fcircle 100,959 3 :p747
+fcircle 927,523 3 :p748
+fcircle 818,996 3 :p749
+fcircle 128,989 3 :p750
+fcircle 725,400 3 :p751
+fcircle 593,353 3 :p752
+fcircle 335,200 3 :p753
+fcircle 285,797 3 :p754
+fcircle 176,855 3 :p755
+fcircle 952,187 3 :p756
+fcircle 793,248 3 :p757
+fcircle 876,699 3 :p758
+fcircle 1,736 3 :p759
+fcircle 358,892 3 :p760
+fcircle 217,917 3 :p761
+fcircle 107,33 3 :p762
+fcircle 242,872 3 :p763
+fcircle 902,0 3 :p764
+fcircle 6,93 3 :p765
+fcircle 959,652 3 :p766
+fcircle 222,63 3 :p767
+fcircle 341,414 3 :p768
+fcircle 110,738 3 :p769
+fcircle 849,267 3 :p770
+fcircle 29,726 3 :p771
+fcircle 400,666 3 :p772
+fcircle 796,355 3 :p773
+fcircle 673,845 3 :p774
+fcircle 300,469 3 :p775
+fcircle 464,2 3 :p776
+fcircle 17,672 3 :p777
+fcircle 47,122 3 :p778
+fcircle 569,970 3 :p779
+fcircle 634,223 3 :p780
+fcircle 386,555 3 :p781
+fcircle 890,322 3 :p782
+fcircle 43,914 3 :p783
+fcircle 177,941 3 :p784
+fcircle 161,792 3 :p785
+fcircle 561,758 3 :p786
+fcircle 86,814 3 :p787
+fcircle 653,589 3 :p788
+fcircle 427,274 3 :p789
+fcircle 415,137 3 :p790
+fcircle 123,516 3 :p791
+fcircle 341,325 3 :p792
+fcircle 905,273 3 :p793
+fcircle 12,988 3 :p794
+fcircle 942,819 3 :p795
+fcircle 200,733 3 :p796
+fcircle 394,974 3 :p797
+fcircle 181,882 3 :p798
+fcircle 548,145 3 :p799
+fcircle 240,61 3 :p800
+fcircle 897,137 3 :p801
+fcircle 822,759 3 :p802
+fcircle 858,430 3 :p803
+fcircle 67,579 3 :p804
+fcircle 900,822 3 :p805
+fcircle 620,962 3 :p806
+fcircle 500,444 3 :p807
+fcircle 365,528 3 :p808
+fcircle 115,346 3 :p809
+fcircle 813,338 3 :p810
+fcircle 898,565 3 :p811
+fcircle 263,44 3 :p812
+fcircle 211,290 3 :p813
+fcircle 791,69 3 :p814
+fcircle 656,613 3 :p815
+fcircle 839,392 3 :p816
+fcircle 747,169 3 :p817
+fcircle 566,745 3 :p818
+fcircle 959,744 3 :p819
+fcircle 506,817 3 :p820
+fcircle 524,574 3 :p821
+fcircle 93,537 3 :p822
+fcircle 348,556 3 :p823
+fcircle 668,328 3 :p824
+fcircle 70,976 3 :p825
+fcircle 16,262 3 :p826
+fcircle 762,473 3 :p827
+fcircle 814,776 3 :p828
+fcircle 810,114 3 :p829
+fcircle 656,524 3 :p830
+fcircle 183,246 3 :p831
+fcircle 178,655 3 :p832
+fcircle 761,864 3 :p833
+fcircle 966,95 3 :p834
+fcircle 564,853 3 :p835
+fcircle 205,158 3 :p836
+fcircle 259,746 3 :p837
+fcircle 728,218 3 :p838
+fcircle 979,396 3 :p839
+fcircle 298,145 3 :p840
+fcircle 311,790 3 :p841
+fcircle 496,476 3 :p842
+fcircle 96,653 3 :p843
+fcircle 787,875 3 :p844
+fcircle 650,290 3 :p845
+fcircle 649,497 3 :p846
+fcircle 135,782 3 :p847
+fcircle 581,496 3 :p848
+fcircle 478,108 3 :p849
+fcircle 459,802 3 :p850
+fcircle 459,293 3 :p851
+fcircle 749,589 3 :p852
+fcircle 171,574 3 :p853
+fcircle 244,739 3 :p854
+fcircle 802,832 3 :p855
+fcircle 113,234 3 :p856
+fcircle 936,672 3 :p857
+fcircle 539,608 3 :p858
+fcircle 966,485 3 :p859
+fcircle 28,440 3 :p860
+fcircle 514,222 3 :p861
+fcircle 709,728 3 :p862
+fcircle 455,306 3 :p863
+fcircle 688,42 3 :p864
+fcircle 566,921 3 :p865
+fcircle 556,452 3 :p866
+fcircle 170,492 3 :p867
+fcircle 667,544 3 :p868
+fcircle 276,703 3 :p869
+fcircle 336,843 3 :p870
+fcircle 745,190 3 :p871
+fcircle 919,779 3 :p872
+fcircle 57,603 3 :p873
+fcircle 998,18 3 :p874
+fcircle 559,225 3 :p875
+fcircle 135,647 3 :p876
+fcircle 985,451 3 :p877
+fcircle 646,970 3 :p878
+fcircle 732,120 3 :p879
+fcircle 153,673 3 :p880
+fcircle 730,42 3 :p881
+fcircle 963,9 3 :p882
+fcircle 675,665 3 :p883
+fcircle 136,561 3 :p884
+fcircle 283,81 3 :p885
+fcircle 766,833 3 :p886
+fcircle 872,968 3 :p887
+fcircle 350,471 3 :p888
+fcircle 786,128 3 :p889
+fcircle 995,651 3 :p890
+fcircle 617,312 3 :p891
+fcircle 657,262 3 :p892
+fcircle 79,984 3 :p893
+fcircle 133,683 3 :p894
+fcircle 362,415 3 :p895
+fcircle 323,519 3 :p896
+fcircle 385,406 3 :p897
+fcircle 495,865 3 :p898
+fcircle 197,653 3 :p899
+fcircle 302,782 3 :p900
+fcircle 727,850 3 :p901
+fcircle 864,533 3 :p902
+fcircle 716,609 3 :p903
+fcircle 971,51 3 :p904
+fcircle 233,963 3 :p905
+fcircle 682,428 3 :p906
+fcircle 210,861 3 :p907
+fcircle 155,263 3 :p908
+fcircle 509,880 3 :p909
+fcircle 357,388 3 :p910
+fcircle 671,274 3 :p911
+fcircle 409,178 3 :p912
+fcircle 613,993 3 :p913
+fcircle 301,693 3 :p914
+fcircle 578,197 3 :p915
+fcircle 710,815 3 :p916
+fcircle 3,749 3 :p917
+fcircle 971,155 3 :p918
+fcircle 812,842 3 :p919
+fcircle 137,330 3 :p920
+fcircle 24,216 3 :p921
+fcircle 544,673 3 :p922
+fcircle 341,847 3 :p923
+fcircle 630,51 3 :p924
+fcircle 105,587 3 :p925
+fcircle 858,176 3 :p926
+fcircle 492,478 3 :p927
+fcircle 644,162 3 :p928
+fcircle 868,560 3 :p929
+fcircle 879,572 3 :p930
+fcircle 740,157 3 :p931
+fcircle 352,426 3 :p932
+fcircle 787,517 3 :p933
+fcircle 290,578 3 :p934
+fcircle 946,86 3 :p935
+fcircle 82,176 3 :p936
+fcircle 841,750 3 :p937
+fcircle 757,66 3 :p938
+fcircle 881,488 3 :p939
+fcircle 814,763 3 :p940
+fcircle 869,538 3 :p941
+fcircle 40,880 3 :p942
+fcircle 696,636 3 :p943
+fcircle 927,556 3 :p944
+fcircle 973,749 3 :p945
+fcircle 396,904 3 :p946
+fcircle 719,176 3 :p947
+fcircle 823,593 3 :p948
+fcircle 360,794 3 :p949
+fcircle 680,541 3 :p950
+fcircle 601,431 3 :p951
+fcircle 741,982 3 :p952
+fcircle 481,165 3 :p953
+fcircle 98,647 3 :p954
+fcircle 339,306 3 :p955
+fcircle 822,185 3 :p956
+fcircle 183,494 3 :p957
+fcircle 855,409 3 :p958
+fcircle 189,132 3 :p959
+fcircle 460,410 3 :p960
+fcircle 867,77 3 :p961
+fcircle 814,613 3 :p962
+fcircle 792,279 3 :p963
+fcircle 95,402 3 :p964
+fcircle 314,41 3 :p965
+fcircle 867,238 3 :p966
+fcircle 114,672 3 :p967
+fcircle 824,98 3 :p968
+fcircle 932,912 3 :p969
+fcircle 904,339 3 :p970
+fcircle 958,393 3 :p971
+fcircle 665,754 3 :p972
+fcircle 654,145 3 :p973
+fcircle 169,738 3 :p974
+fcircle 859,380 3 :p975
+fcircle 870,346 3 :p976
+fcircle 636,299 3 :p977
+fcircle 307,131 3 :p978
+fcircle 178,915 3 :p979
+fcircle 403,285 3 :p980
+fcircle 169,948 3 :p981
+fcircle 578,831 3 :p982
+fcircle 47,921 3 :p983
+fcircle 612,742 3 :p984
+fcircle 974,45 3 :p985
+fcircle 578,518 3 :p986
+fcircle 650,358 3 :p987
+fcircle 135,165 3 :p988
+fcircle 112,466 3 :p989
+fcircle 300,63 3 :p990
+fcircle 978,909 3 :p991
+fcircle 318,890 3 :p992
+fcircle 306,660 3 :p993
+fcircle 488,670 3 :p994
+fcircle 821,945 3 :p995
+fcircle 743,119 3 :p996
+fcircle 370,856 3 :p997
+fcircle 106,367 3 :p998
+fcircle 250,274 3 :p999
+fcircle 9,883 3 :p1000
+# insert here your solution instead of 1 2 3 ... 
+line (p998) (p563)
+line (p563) (p616)
+line (p616) (p702)
+line (p702) (p73)
+line (p73) (p964)
+line (p964) (p143)
+line (p143) (p532)
+line (p532) (p687)
+line (p687) (p138)
+line (p138) (p31)
+line (p31) (p528)
+line (p528) (p64)
+line (p64) (p535)
+line (p535) (p920)
+line (p920) (p93)
+line (p93) (p509)
+line (p509) (p600)
+line (p600) (p813)
+line (p813) (p57)
+line (p57) (p284)
+line (p284) (p478)
+line (p478) (p29)
+line (p29) (p286)
+line (p286) (p517)
+line (p517) (p409)
+line (p409) (p955)
+line (p955) (p203)
+line (p203) (p792)
+line (p792) (p694)
+line (p694) (p604)
+line (p604) (p28)
+line (p28) (p49)
+line (p49) (p910)
+line (p910) (p460)
+line (p460) (p897)
+line (p897) (p199)
+line (p199) (p716)
+line (p716) (p649)
+line (p649) (p895)
+line (p895) (p768)
+line (p768) (p932)
+line (p932) (p369)
+line (p369) (p662)
+line (p662) (p392)
+line (p392) (p323)
+line (p323) (p248)
+line (p248) (p414)
+line (p414) (p543)
+line (p543) (p888)
+line (p888) (p699)
+line (p699) (p375)
+line (p375) (p775)
+line (p775) (p247)
+line (p247) (p425)
+line (p425) (p512)
+line (p512) (p123)
+line (p123) (p558)
+line (p558) (p710)
+line (p710) (p315)
+line (p315) (p278)
+line (p278) (p307)
+line (p307) (p667)
+line (p667) (p733)
+line (p733) (p355)
+line (p355) (p72)
+line (p72) (p117)
+line (p117) (p252)
+line (p252) (p505)
+line (p505) (p896)
+line (p896) (p471)
+line (p471) (p934)
+line (p934) (p534)
+line (p534) (p6)
+line (p6) (p212)
+line (p212) (p271)
+line (p271) (p373)
+line (p373) (p419)
+line (p419) (p632)
+line (p632) (p631)
+line (p631) (p899)
+line (p899) (p357)
+line (p357) (p832)
+line (p832) (p709)
+line (p709) (p343)
+line (p343) (p880)
+line (p880) (p894)
+line (p894) (p574)
+line (p574) (p769)
+line (p769) (p515)
+line (p515) (p453)
+line (p453) (p33)
+line (p33) (p777)
+line (p777) (p310)
+line (p310) (p113)
+line (p113) (p771)
+line (p771) (p759)
+line (p759) (p917)
+line (p917) (p487)
+line (p487) (p700)
+line (p700) (p68)
+line (p68) (p350)
+line (p350) (p519)
+line (p519) (p42)
+line (p42) (p378)
+line (p378) (p466)
+line (p466) (p787)
+line (p787) (p394)
+line (p394) (p32)
+line (p32) (p249)
+line (p249) (p942)
+line (p942) (p1000)
+line (p1000) (p193)
+line (p193) (p272)
+line (p272) (p794)
+line (p794) (p443)
+line (p443) (p983)
+line (p983) (p783)
+line (p783) (p450)
+line (p450) (p1)
+line (p1) (p726)
+line (p726) (p382)
+line (p382) (p122)
+line (p122) (p175)
+line (p175) (p825)
+line (p825) (p546)
+line (p546) (p893)
+line (p893) (p747)
+line (p747) (p461)
+line (p461) (p750)
+line (p750) (p438)
+line (p438) (p399)
+line (p399) (p490)
+line (p490) (p979)
+line (p979) (p784)
+line (p784) (p85)
+line (p85) (p981)
+line (p981) (p602)
+line (p602) (p54)
+line (p54) (p905)
+line (p905) (p761)
+line (p761) (p682)
+line (p682) (p763)
+line (p763) (p9)
+line (p9) (p61)
+line (p61) (p285)
+line (p285) (p302)
+line (p302) (p322)
+line (p322) (p411)
+line (p411) (p227)
+line (p227) (p992)
+line (p992) (p186)
+line (p186) (p174)
+line (p174) (p459)
+line (p459) (p870)
+line (p870) (p923)
+line (p923) (p997)
+line (p997) (p242)
+line (p242) (p760)
+line (p760) (p76)
+line (p76) (p22)
+line (p22) (p454)
+line (p454) (p949)
+line (p949) (p205)
+line (p205) (p446)
+line (p446) (p556)
+line (p556) (p594)
+line (p594) (p592)
+line (p592) (p914)
+line (p914) (p228)
+line (p228) (p82)
+line (p82) (p701)
+line (p701) (p146)
+line (p146) (p900)
+line (p900) (p841)
+line (p841) (p149)
+line (p149) (p163)
+line (p163) (p637)
+line (p637) (p754)
+line (p754) (p648)
+line (p648) (p270)
+line (p270) (p507)
+line (p507) (p740)
+line (p740) (p467)
+line (p467) (p529)
+line (p529) (p907)
+line (p907) (p798)
+line (p798) (p127)
+line (p127) (p128)
+line (p128) (p755)
+line (p755) (p421)
+line (p421) (p400)
+line (p400) (p785)
+line (p785) (p101)
+line (p101) (p97)
+line (p97) (p847)
+line (p847) (p417)
+line (p417) (p84)
+line (p84) (p304)
+line (p304) (p974)
+line (p974) (p796)
+line (p796) (p327)
+line (p327) (p126)
+line (p126) (p197)
+line (p197) (p854)
+line (p854) (p837)
+line (p837) (p214)
+line (p214) (p643)
+line (p643) (p718)
+line (p718) (p518)
+line (p518) (p869)
+line (p869) (p157)
+line (p157) (p413)
+line (p413) (p993)
+line (p993) (p623)
+line (p623) (p476)
+line (p476) (p772)
+line (p772) (p246)
+line (p246) (p39)
+line (p39) (p721)
+line (p721) (p605)
+line (p605) (p781)
+line (p781) (p254)
+line (p254) (p37)
+line (p37) (p823)
+line (p823) (p40)
+line (p40) (p15)
+line (p15) (p808)
+line (p808) (p2)
+line (p2) (p96)
+line (p96) (p533)
+line (p533) (p704)
+line (p704) (p555)
+line (p555) (p264)
+line (p264) (p531)
+line (p531) (p456)
+line (p456) (p510)
+line (p510) (p35)
+line (p35) (p576)
+line (p576) (p569)
+line (p569) (p521)
+line (p521) (p158)
+line (p158) (p675)
+line (p675) (p462)
+line (p462) (p606)
+line (p606) (p62)
+line (p62) (p821)
+line (p821) (p570)
+line (p570) (p448)
+line (p448) (p858)
+line (p858) (p38)
+line (p38) (p922)
+line (p922) (p468)
+line (p468) (p231)
+line (p231) (p994)
+line (p994) (p744)
+line (p744) (p187)
+line (p187) (p206)
+line (p206) (p584)
+line (p584) (p442)
+line (p442) (p525)
+line (p525) (p177)
+line (p177) (p393)
+line (p393) (p340)
+line (p340) (p106)
+line (p106) (p295)
+line (p295) (p134)
+line (p134) (p499)
+line (p499) (p262)
+line (p262) (p708)
+line (p708) (p722)
+line (p722) (p277)
+line (p277) (p577)
+line (p577) (p946)
+line (p946) (p363)
+line (p363) (p730)
+line (p730) (p797)
+line (p797) (p486)
+line (p486) (p7)
+line (p7) (p13)
+line (p13) (p405)
+line (p405) (p255)
+line (p255) (p909)
+line (p909) (p619)
+line (p619) (p71)
+line (p71) (p898)
+line (p898) (p103)
+line (p103) (p408)
+line (p408) (p210)
+line (p210) (p835)
+line (p835) (p745)
+line (p745) (p129)
+line (p129) (p376)
+line (p376) (p865)
+line (p865) (p779)
+line (p779) (p711)
+line (p711) (p913)
+line (p913) (p224)
+line (p224) (p878)
+line (p878) (p806)
+line (p806) (p737)
+line (p737) (p225)
+line (p225) (p280)
+line (p280) (p591)
+line (p591) (p360)
+line (p360) (p130)
+line (p130) (p587)
+line (p587) (p671)
+line (p671) (p982)
+line (p982) (p65)
+line (p65) (p104)
+line (p104) (p441)
+line (p441) (p219)
+line (p219) (p820)
+line (p820) (p513)
+line (p513) (p850)
+line (p850) (p714)
+line (p714) (p208)
+line (p208) (p45)
+line (p45) (p786)
+line (p786) (p485)
+line (p485) (p290)
+line (p290) (p818)
+line (p818) (p306)
+line (p306) (p566)
+line (p566) (p434)
+line (p434) (p119)
+line (p119) (p298)
+line (p298) (p554)
+line (p554) (p289)
+line (p289) (p296)
+line (p296) (p689)
+line (p689) (p152)
+line (p152) (p984)
+line (p984) (p659)
+line (p659) (p325)
+line (p325) (p374)
+line (p374) (p449)
+line (p449) (p635)
+line (p635) (p972)
+line (p972) (p674)
+line (p674) (p293)
+line (p293) (p159)
+line (p159) (p145)
+line (p145) (p774)
+line (p774) (p651)
+line (p651) (p60)
+line (p60) (p901)
+line (p901) (p348)
+line (p348) (p536)
+line (p536) (p20)
+line (p20) (p494)
+line (p494) (p291)
+line (p291) (p952)
+line (p952) (p215)
+line (p215) (p424)
+line (p424) (p551)
+line (p551) (p749)
+line (p749) (p115)
+line (p115) (p266)
+line (p266) (p265)
+line (p265) (p573)
+line (p573) (p887)
+line (p887) (p655)
+line (p655) (p386)
+line (p386) (p995)
+line (p995) (p495)
+line (p495) (p562)
+line (p562) (p668)
+line (p668) (p719)
+line (p719) (p111)
+line (p111) (p142)
+line (p142) (p3)
+line (p3) (p833)
+line (p833) (p844)
+line (p844) (p338)
+line (p338) (p275)
+line (p275) (p234)
+line (p234) (p919)
+line (p919) (p855)
+line (p855) (p886)
+line (p886) (p916)
+line (p916) (p603)
+line (p603) (p79)
+line (p79) (p612)
+line (p612) (p640)
+line (p640) (p862)
+line (p862) (p407)
+line (p407) (p137)
+line (p137) (p703)
+line (p703) (p595)
+line (p595) (p140)
+line (p140) (p410)
+line (p410) (p102)
+line (p102) (p732)
+line (p732) (p523)
+line (p523) (p673)
+line (p673) (p463)
+line (p463) (p470)
+line (p470) (p364)
+line (p364) (p483)
+line (p483) (p398)
+line (p398) (p335)
+line (p335) (p451)
+line (p451) (p222)
+line (p222) (p241)
+line (p241) (p766)
+line (p766) (p504)
+line (p504) (p857)
+line (p857) (p333)
+line (p333) (p758)
+line (p758) (p27)
+line (p27) (p308)
+line (p308) (p937)
+line (p937) (p362)
+line (p362) (p802)
+line (p802) (p940)
+line (p940) (p828)
+line (p828) (p192)
+line (p192) (p387)
+line (p387) (p735)
+line (p735) (p530)
+line (p530) (p353)
+line (p353) (p705)
+line (p705) (p444)
+line (p444) (p260)
+line (p260) (p872)
+line (p872) (p582)
+line (p582) (p17)
+line (p17) (p805)
+line (p805) (p243)
+line (p243) (p267)
+line (p267) (p458)
+line (p458) (p969)
+line (p969) (p132)
+line (p132) (p991)
+line (p991) (p552)
+line (p552) (p553)
+line (p553) (p795)
+line (p795) (p259)
+line (p259) (p95)
+line (p95) (p945)
+line (p945) (p819)
+line (p819) (p565)
+line (p565) (p112)
+line (p112) (p292)
+line (p292) (p660)
+line (p660) (p480)
+line (p480) (p890)
+line (p890) (p50)
+line (p50) (p496)
+line (p496) (p51)
+line (p51) (p944)
+line (p944) (p811)
+line (p811) (p452)
+line (p452) (p930)
+line (p930) (p571)
+line (p571) (p195)
+line (p195) (p929)
+line (p929) (p652)
+line (p652) (p472)
+line (p472) (p941)
+line (p941) (p902)
+line (p902) (p78)
+line (p78) (p599)
+line (p599) (p681)
+line (p681) (p748)
+line (p748) (p475)
+line (p475) (p939)
+line (p939) (p482)
+line (p482) (p680)
+line (p680) (p155)
+line (p155) (p209)
+line (p209) (p658)
+line (p658) (p803)
+line (p803) (p331)
+line (p331) (p685)
+line (p685) (p86)
+line (p86) (p589)
+line (p589) (p590)
+line (p590) (p172)
+line (p172) (p933)
+line (p933) (p332)
+line (p332) (p692)
+line (p692) (p727)
+line (p727) (p166)
+line (p166) (p720)
+line (p720) (p188)
+line (p188) (p827)
+line (p827) (p723)
+line (p723) (p34)
+line (p34) (p204)
+line (p204) (p627)
+line (p627) (p90)
+line (p90) (p55)
+line (p55) (p561)
+line (p561) (p734)
+line (p734) (p751)
+line (p751) (p731)
+line (p731) (p678)
+line (p678) (p144)
+line (p144) (p21)
+line (p21) (p824)
+line (p824) (p987)
+line (p987) (p305)
+line (p305) (p630)
+line (p630) (p160)
+line (p160) (p46)
+line (p46) (p906)
+line (p906) (p372)
+line (p372) (p317)
+line (p317) (p541)
+line (p541) (p846)
+line (p846) (p830)
+line (p830) (p868)
+line (p868) (p950)
+line (p950) (p488)
+line (p488) (p352)
+line (p352) (p903)
+line (p903) (p739)
+line (p739) (p540)
+line (p540) (p240)
+line (p240) (p547)
+line (p547) (p852)
+line (p852) (p610)
+line (p610) (p402)
+line (p402) (p336)
+line (p336) (p538)
+line (p538) (p948)
+line (p948) (p370)
+line (p370) (p962)
+line (p962) (p430)
+line (p430) (p139)
+line (p139) (p118)
+line (p118) (p345)
+line (p345) (p670)
+line (p670) (p657)
+line (p657) (p661)
+line (p661) (p418)
+line (p418) (p397)
+line (p397) (p173)
+line (p173) (p943)
+line (p943) (p883)
+line (p883) (p389)
+line (p389) (p746)
+line (p746) (p120)
+line (p120) (p171)
+line (p171) (p428)
+line (p428) (p638)
+line (p638) (p77)
+line (p77) (p125)
+line (p125) (p815)
+line (p815) (p69)
+line (p69) (p788)
+line (p788) (p493)
+line (p493) (p324)
+line (p324) (p238)
+line (p238) (p380)
+line (p380) (p986)
+line (p986) (p848)
+line (p848) (p550)
+line (p550) (p624)
+line (p624) (p230)
+line (p230) (p579)
+line (p579) (p842)
+line (p842) (p927)
+line (p927) (p433)
+line (p433) (p396)
+line (p396) (p807)
+line (p807) (p633)
+line (p633) (p960)
+line (p960) (p180)
+line (p180) (p98)
+line (p98) (p147)
+line (p147) (p665)
+line (p665) (p607)
+line (p607) (p980)
+line (p980) (p789)
+line (p789) (p851)
+line (p851) (p863)
+line (p863) (p514)
+line (p514) (p404)
+line (p404) (p445)
+line (p445) (p371)
+line (p371) (p154)
+line (p154) (p110)
+line (p110) (p124)
+line (p124) (p196)
+line (p196) (p712)
+line (p712) (p503)
+line (p503) (p866)
+line (p866) (p524)
+line (p524) (p183)
+line (p183) (p313)
+line (p313) (p622)
+line (p622) (p951)
+line (p951) (p70)
+line (p70) (p342)
+line (p342) (p383)
+line (p383) (p401)
+line (p401) (p752)
+line (p752) (p299)
+line (p299) (p250)
+line (p250) (p891)
+line (p891) (p526)
+line (p526) (p977)
+line (p977) (p406)
+line (p406) (p845)
+line (p845) (p598)
+line (p598) (p256)
+line (p256) (p320)
+line (p320) (p780)
+line (p780) (p892)
+line (p892) (p911)
+line (p911) (p169)
+line (p169) (p361)
+line (p361) (p359)
+line (p359) (p838)
+line (p838) (p365)
+line (p365) (p59)
+line (p59) (p8)
+line (p8) (p334)
+line (p334) (p131)
+line (p131) (p457)
+line (p457) (p349)
+line (p349) (p436)
+line (p436) (p168)
+line (p168) (p465)
+line (p465) (p89)
+line (p89) (p666)
+line (p666) (p963)
+line (p963) (p757)
+line (p757) (p548)
+line (p548) (p617)
+line (p617) (p575)
+line (p575) (p330)
+line (p330) (p966)
+line (p966) (p770)
+line (p770) (p484)
+line (p484) (p56)
+line (p56) (p497)
+line (p497) (p167)
+line (p167) (p585)
+line (p585) (p108)
+line (p108) (p560)
+line (p560) (p810)
+line (p810) (p773)
+line (p773) (p691)
+line (p691) (p816)
+line (p816) (p641)
+line (p641) (p958)
+line (p958) (p426)
+line (p426) (p473)
+line (p473) (p975)
+line (p975) (p500)
+line (p500) (p976)
+line (p976) (p381)
+line (p381) (p782)
+line (p782) (p793)
+line (p793) (p728)
+line (p728) (p688)
+line (p688) (p455)
+line (p455) (p47)
+line (p47) (p970)
+line (p970) (p511)
+line (p511) (p491)
+line (p491) (p971)
+line (p971) (p647)
+line (p647) (p328)
+line (p328) (p580)
+line (p580) (p542)
+line (p542) (p608)
+line (p608) (p859)
+line (p859) (p114)
+line (p114) (p877)
+line (p877) (p715)
+line (p715) (p202)
+line (p202) (p695)
+line (p695) (p30)
+line (p30) (p677)
+line (p677) (p508)
+line (p508) (p839)
+line (p839) (p94)
+line (p94) (p273)
+line (p273) (p522)
+line (p522) (p318)
+line (p318) (p58)
+line (p58) (p12)
+line (p12) (p431)
+line (p431) (p109)
+line (p109) (p653)
+line (p653) (p567)
+line (p567) (p918)
+line (p918) (p756)
+line (p756) (p477)
+line (p477) (p151)
+line (p151) (p628)
+line (p628) (p447)
+line (p447) (p226)
+line (p226) (p926)
+line (p926) (p344)
+line (p344) (p258)
+line (p258) (p956)
+line (p956) (p537)
+line (p537) (p469)
+line (p469) (p150)
+line (p150) (p871)
+line (p871) (p817)
+line (p817) (p931)
+line (p931) (p947)
+line (p947) (p545)
+line (p545) (p707)
+line (p707) (p148)
+line (p148) (p435)
+line (p435) (p403)
+line (p403) (p928)
+line (p928) (p107)
+line (p107) (p973)
+line (p973) (p312)
+line (p312) (p194)
+line (p194) (p24)
+line (p24) (p879)
+line (p879) (p996)
+line (p996) (p18)
+line (p18) (p26)
+line (p26) (p706)
+line (p706) (p91)
+line (p91) (p216)
+line (p216) (p889)
+line (p889) (p416)
+line (p416) (p829)
+line (p829) (p232)
+line (p232) (p968)
+line (p968) (p25)
+line (p25) (p121)
+line (p121) (p961)
+line (p961) (p303)
+line (p303) (p213)
+line (p213) (p346)
+line (p346) (p253)
+line (p253) (p801)
+line (p801) (p420)
+line (p420) (p48)
+line (p48) (p834)
+line (p834) (p935)
+line (p935) (p464)
+line (p464) (p904)
+line (p904) (p985)
+line (p985) (p874)
+line (p874) (p390)
+line (p390) (p882)
+line (p882) (p764)
+line (p764) (p329)
+line (p329) (p229)
+line (p229) (p74)
+line (p74) (p41)
+line (p41) (p814)
+line (p814) (p593)
+line (p593) (p297)
+line (p297) (p321)
+line (p321) (p92)
+line (p92) (p938)
+line (p938) (p656)
+line (p656) (p527)
+line (p527) (p625)
+line (p625) (p881)
+line (p881) (p620)
+line (p620) (p11)
+line (p11) (p358)
+line (p358) (p864)
+line (p864) (p283)
+line (p283) (p83)
+line (p83) (p429)
+line (p429) (p439)
+line (p439) (p664)
+line (p664) (p105)
+line (p105) (p100)
+line (p100) (p356)
+line (p356) (p141)
+line (p141) (p696)
+line (p696) (p178)
+line (p178) (p506)
+line (p506) (p170)
+line (p170) (p629)
+line (p629) (p207)
+line (p207) (p251)
+line (p251) (p379)
+line (p379) (p368)
+line (p368) (p849)
+line (p849) (p432)
+line (p432) (p568)
+line (p568) (p135)
+line (p135) (p181)
+line (p181) (p474)
+line (p474) (p502)
+line (p502) (p776)
+line (p776) (p14)
+line (p14) (p557)
+line (p557) (p211)
+line (p211) (p16)
+line (p16) (p316)
+line (p316) (p176)
+line (p176) (p43)
+line (p43) (p965)
+line (p965) (p642)
+line (p642) (p743)
+line (p743) (p990)
+line (p990) (p5)
+line (p5) (p812)
+line (p812) (p220)
+line (p220) (p395)
+line (p395) (p388)
+line (p388) (p311)
+line (p311) (p44)
+line (p44) (p767)
+line (p767) (p800)
+line (p800) (p885)
+line (p885) (p314)
+line (p314) (p269)
+line (p269) (p153)
+line (p153) (p189)
+line (p189) (p191)
+line (p191) (p279)
+line (p279) (p239)
+line (p239) (p384)
+line (p384) (p912)
+line (p912) (p354)
+line (p354) (p790)
+line (p790) (p87)
+line (p87) (p366)
+line (p366) (p639)
+line (p639) (p953)
+line (p953) (p182)
+line (p182) (p200)
+line (p200) (p218)
+line (p218) (p19)
+line (p19) (p618)
+line (p618) (p799)
+line (p799) (p162)
+line (p162) (p683)
+line (p683) (p10)
+line (p10) (p924)
+line (p924) (p294)
+line (p294) (p578)
+line (p578) (p915)
+line (p915) (p875)
+line (p875) (p501)
+line (p501) (p233)
+line (p233) (p520)
+line (p520) (p549)
+line (p549) (p133)
+line (p133) (p861)
+line (p861) (p634)
+line (p634) (p586)
+line (p586) (p263)
+line (p263) (p179)
+line (p179) (p742)
+line (p742) (p4)
+line (p4) (p676)
+line (p676) (p753)
+line (p753) (p645)
+line (p645) (p489)
+line (p489) (p385)
+line (p385) (p978)
+line (p978) (p80)
+line (p80) (p840)
+line (p840) (p221)
+line (p221) (p185)
+line (p185) (p282)
+line (p282) (p161)
+line (p161) (p75)
+line (p75) (p544)
+line (p544) (p581)
+line (p581) (p301)
+line (p301) (p516)
+line (p516) (p999)
+line (p999) (p235)
+line (p235) (p736)
+line (p736) (p88)
+line (p88) (p347)
+line (p347) (p725)
+line (p725) (p831)
+line (p831) (p663)
+line (p663) (p908)
+line (p908) (p539)
+line (p539) (p287)
+line (p287) (p856)
+line (p856) (p53)
+line (p53) (p268)
+line (p268) (p644)
+line (p644) (p713)
+line (p713) (p988)
+line (p988) (p377)
+line (p377) (p245)
+line (p245) (p156)
+line (p156) (p274)
+line (p274) (p217)
+line (p217) (p717)
+line (p717) (p836)
+line (p836) (p601)
+line (p601) (p959)
+line (p959) (p427)
+line (p427) (p81)
+line (p81) (p654)
+line (p654) (p116)
+line (p116) (p626)
+line (p626) (p741)
+line (p741) (p762)
+line (p762) (p697)
+line (p697) (p615)
+line (p615) (p341)
+line (p341) (p440)
+line (p440) (p184)
+line (p184) (p23)
+line (p23) (p300)
+line (p300) (p339)
+line (p339) (p66)
+line (p66) (p423)
+line (p423) (p765)
+line (p765) (p588)
+line (p588) (p367)
+line (p367) (p778)
+line (p778) (p686)
+line (p686) (p636)
+line (p636) (p412)
+line (p412) (p936)
+line (p936) (p165)
+line (p165) (p164)
+line (p164) (p738)
+line (p738) (p351)
+line (p351) (p679)
+line (p679) (p693)
+line (p693) (p921)
+line (p921) (p826)
+line (p826) (p613)
+line (p613) (p422)
+line (p422) (p236)
+line (p236) (p52)
+line (p52) (p415)
+line (p415) (p99)
+line (p99) (p860)
+line (p860) (p646)
+line (p646) (p989)
+line (p989) (p437)
+line (p437) (p791)
+line (p791) (p391)
+line (p391) (p650)
+line (p650) (p698)
+line (p698) (p201)
+line (p201) (p583)
+line (p583) (p276)
+line (p276) (p337)
+line (p337) (p67)
+line (p67) (p669)
+line (p669) (p672)
+line (p672) (p596)
+line (p596) (p492)
+line (p492) (p729)
+line (p729) (p873)
+line (p873) (p804)
+line (p804) (p223)
+line (p223) (p498)
+line (p498) (p822)
+line (p822) (p559)
+line (p559) (p884)
+line (p884) (p925)
+line (p925) (p614)
+line (p614) (p198)
+line (p198) (p954)
+line (p954) (p843)
+line (p843) (p621)
+line (p621) (p237)
+line (p237) (p967)
+line (p967) (p597)
+line (p597) (p876)
+line (p876) (p190)
+line (p190) (p63)
+line (p63) (p479)
+line (p479) (p724)
+line (p724) (p261)
+line (p261) (p853)
+line (p853) (p564)
+line (p564) (p288)
+line (p288) (p257)
+line (p257) (p326)
+line (p326) (p572)
+line (p572) (p957)
+line (p957) (p867)
+line (p867) (p309)
+line (p309) (p281)
+line (p281) (p36)
+line (p36) (p611)
+line (p611) (p244)
+line (p244) (p481)
+line (p481) (p684)
+line (p684) (p609)
+line (p609) (p690)
+line (p690) (p136)
+line (p136) (p809)
+line (p809) (p319)
+line (p319) (p998)

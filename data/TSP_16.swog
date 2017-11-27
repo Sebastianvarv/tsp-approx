@@ -1,0 +1,37 @@
+new 1100,1100 
+string 20,20 {2016: Your Name, method, etc. Score: xxxx.yyyyy } :tekst
+coordsys west south right up
+origin 50,50
+fcircle 810,722 3 :p1
+fcircle 148,273 3 :p2
+fcircle 84,584 3 :p3
+fcircle 140,523 3 :p4
+fcircle 116,2 3 :p5
+fcircle 444,641 3 :p6
+fcircle 252,759 3 :p7
+fcircle 193,896 3 :p8
+fcircle 393,983 3 :p9
+fcircle 499,212 3 :p10
+fcircle 33,637 3 :p11
+fcircle 186,549 3 :p12
+fcircle 31,758 3 :p13
+fcircle 153,94 3 :p14
+fcircle 567,374 3 :p15
+fcircle 812,326 3 :p16
+# insert here your solution instead of 1 2 3 ... 
+line (p1) (p2)
+line (p2) (p3)
+line (p3) (p4)
+line (p4) (p5)
+line (p5) (p6)
+line (p6) (p7)
+line (p7) (p8)
+line (p8) (p9)
+line (p9) (p10)
+line (p10) (p11)
+line (p11) (p12)
+line (p12) (p13)
+line (p13) (p14)
+line (p14) (p15)
+line (p15) (p16)
+line (p16) (p1)

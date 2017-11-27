@@ -1,0 +1,55 @@
+new 1100,1100 
+string 20,20 {2016: Your Name, method, etc. Score: xxxx.yyyyy } :tekst
+coordsys west south right up
+origin 50,50
+fcircle 404,127 3 :p1
+fcircle 813,600 3 :p2
+fcircle 167,654 3 :p3
+fcircle 359,78 3 :p4
+fcircle 962,52 3 :p5
+fcircle 194,540 3 :p6
+fcircle 318,798 3 :p7
+fcircle 566,416 3 :p8
+fcircle 29,202 3 :p9
+fcircle 322,49 3 :p10
+fcircle 1,227 3 :p11
+fcircle 233,846 3 :p12
+fcircle 883,28 3 :p13
+fcircle 704,138 3 :p14
+fcircle 824,493 3 :p15
+fcircle 179,173 3 :p16
+fcircle 788,888 3 :p17
+fcircle 55,978 3 :p18
+fcircle 170,958 3 :p19
+fcircle 216,472 3 :p20
+fcircle 370,269 3 :p21
+fcircle 703,210 3 :p22
+fcircle 772,730 3 :p23
+fcircle 893,854 3 :p24
+fcircle 96,109 3 :p25
+# insert here your solution instead of 1 2 3 ... 
+line (p1) (p2)
+line (p2) (p3)
+line (p3) (p4)
+line (p4) (p5)
+line (p5) (p6)
+line (p6) (p7)
+line (p7) (p8)
+line (p8) (p9)
+line (p9) (p10)
+line (p10) (p11)
+line (p11) (p12)
+line (p12) (p13)
+line (p13) (p14)
+line (p14) (p15)
+line (p15) (p16)
+line (p16) (p17)
+line (p17) (p18)
+line (p18) (p19)
+line (p19) (p20)
+line (p20) (p21)
+line (p21) (p22)
+line (p22) (p23)
+line (p23) (p24)
+line (p24) (p25)
+line (p25) (p1)

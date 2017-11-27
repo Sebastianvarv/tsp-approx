@@ -1,0 +1,205 @@
+new 1100,1100 
+string 20,20 {2016: Your Name, method, etc. Score: xxxx.yyyyy } :tekst
+coordsys west south right up
+origin 50,50
+fcircle 232,66 3 :p1
+fcircle 634,827 3 :p2
+fcircle 595,886 3 :p3
+fcircle 867,245 3 :p4
+fcircle 36,360 3 :p5
+fcircle 119,869 3 :p6
+fcircle 913,893 3 :p7
+fcircle 518,360 3 :p8
+fcircle 643,234 3 :p9
+fcircle 886,367 3 :p10
+fcircle 589,220 3 :p11
+fcircle 529,233 3 :p12
+fcircle 87,278 3 :p13
+fcircle 114,903 3 :p14
+fcircle 365,660 3 :p15
+fcircle 849,677 3 :p16
+fcircle 239,197 3 :p17
+fcircle 745,708 3 :p18
+fcircle 761,623 3 :p19
+fcircle 975,836 3 :p20
+fcircle 920,925 3 :p21
+fcircle 824,303 3 :p22
+fcircle 265,354 3 :p23
+fcircle 500,657 3 :p24
+fcircle 877,604 3 :p25
+fcircle 298,57 3 :p26
+fcircle 440,685 3 :p27
+fcircle 533,849 3 :p28
+fcircle 691,375 3 :p29
+fcircle 52,613 3 :p30
+fcircle 174,58 3 :p31
+fcircle 437,360 3 :p32
+fcircle 726,706 3 :p33
+fcircle 624,828 3 :p34
+fcircle 396,825 3 :p35
+fcircle 222,294 3 :p36
+fcircle 660,955 3 :p37
+fcircle 328,130 3 :p38
+fcircle 616,816 3 :p39
+fcircle 901,27 3 :p40
+fcircle 964,197 3 :p41
+fcircle 505,964 3 :p42
+fcircle 513,34 3 :p43
+fcircle 323,240 3 :p44
+fcircle 919,905 3 :p45
+fcircle 219,319 3 :p46
+fcircle 649,888 3 :p47
+fcircle 306,497 3 :p48
+fcircle 445,945 3 :p49
+fcircle 26,126 3 :p50
+fcircle 97,778 3 :p51
+fcircle 378,4 3 :p52
+fcircle 23,477 3 :p53
+fcircle 337,745 3 :p54
+fcircle 399,985 3 :p55
+fcircle 57,161 3 :p56
+fcircle 487,784 3 :p57
+fcircle 526,594 3 :p58
+fcircle 802,778 3 :p59
+fcircle 430,604 3 :p60
+fcircle 299,761 3 :p61
+fcircle 154,456 3 :p62
+fcircle 186,341 3 :p63
+fcircle 696,449 3 :p64
+fcircle 212,759 3 :p65
+fcircle 600,929 3 :p66
+fcircle 410,654 3 :p67
+fcircle 489,604 3 :p68
+fcircle 887,775 3 :p69
+fcircle 937,999 3 :p70
+fcircle 88,724 3 :p71
+fcircle 17,118 3 :p72
+fcircle 122,502 3 :p73
+fcircle 118,717 3 :p74
+fcircle 956,635 3 :p75
+fcircle 514,710 3 :p76
+fcircle 833,598 3 :p77
+fcircle 400,540 3 :p78
+fcircle 57,725 3 :p79
+fcircle 40,825 3 :p80
+fcircle 833,636 3 :p81
+fcircle 465,968 3 :p82
+fcircle 941,829 3 :p83
+fcircle 423,768 3 :p84
+fcircle 752,589 3 :p85
+fcircle 890,737 3 :p86
+fcircle 974,932 3 :p87
+fcircle 1,763 3 :p88
+fcircle 135,377 3 :p89
+fcircle 445,969 3 :p90
+fcircle 612,762 3 :p91
+fcircle 899,31 3 :p92
+fcircle 897,969 3 :p93
+fcircle 202,352 3 :p94
+fcircle 216,827 3 :p95
+fcircle 732,343 3 :p96
+fcircle 813,736 3 :p97
+fcircle 591,681 3 :p98
+fcircle 551,156 3 :p99
+fcircle 21,822 3 :p100
+# insert here your solution instead of 1 2 3 ... 
+line (p1) (p2)
+line (p2) (p3)
+line (p3) (p4)
+line (p4) (p5)
+line (p5) (p6)
+line (p6) (p7)
+line (p7) (p8)
+line (p8) (p9)
+line (p9) (p10)
+line (p10) (p11)
+line (p11) (p12)
+line (p12) (p13)
+line (p13) (p14)
+line (p14) (p15)
+line (p15) (p16)
+line (p16) (p17)
+line (p17) (p18)
+line (p18) (p19)
+line (p19) (p20)
+line (p20) (p21)
+line (p21) (p22)
+line (p22) (p23)
+line (p23) (p24)
+line (p24) (p25)
+line (p25) (p26)
+line (p26) (p27)
+line (p27) (p28)
+line (p28) (p29)
+line (p29) (p30)
+line (p30) (p31)
+line (p31) (p32)
+line (p32) (p33)
+line (p33) (p34)
+line (p34) (p35)
+line (p35) (p36)
+line (p36) (p37)
+line (p37) (p38)
+line (p38) (p39)
+line (p39) (p40)
+line (p40) (p41)
+line (p41) (p42)
+line (p42) (p43)
+line (p43) (p44)
+line (p44) (p45)
+line (p45) (p46)
+line (p46) (p47)
+line (p47) (p48)
+line (p48) (p49)
+line (p49) (p50)
+line (p50) (p51)
+line (p51) (p52)
+line (p52) (p53)
+line (p53) (p54)
+line (p54) (p55)
+line (p55) (p56)
+line (p56) (p57)
+line (p57) (p58)
+line (p58) (p59)
+line (p59) (p60)
+line (p60) (p61)
+line (p61) (p62)
+line (p62) (p63)
+line (p63) (p64)
+line (p64) (p65)
+line (p65) (p66)
+line (p66) (p67)
+line (p67) (p68)
+line (p68) (p69)
+line (p69) (p70)
+line (p70) (p71)
+line (p71) (p72)
+line (p72) (p73)
+line (p73) (p74)
+line (p74) (p75)
+line (p75) (p76)
+line (p76) (p77)
+line (p77) (p78)
+line (p78) (p79)
+line (p79) (p80)
+line (p80) (p81)
+line (p81) (p82)
+line (p82) (p83)
+line (p83) (p84)
+line (p84) (p85)
+line (p85) (p86)
+line (p86) (p87)
+line (p87) (p88)
+line (p88) (p89)
+line (p89) (p90)
+line (p90) (p91)
+line (p91) (p92)
+line (p92) (p93)
+line (p93) (p94)
+line (p94) (p95)
+line (p95) (p96)
+line (p96) (p97)
+line (p97) (p98)
+line (p98) (p99)
+line (p99) (p100)
+line (p100) (p1)

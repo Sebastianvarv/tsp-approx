@@ -1,0 +1,85 @@
+new 1100,1100 
+string 20,20 {2016: Your Name, method, etc. Score: xxxx.yyyyy } :tekst
+coordsys west south right up
+origin 50,50
+fcircle 400,39 3 :p1
+fcircle 602,197 3 :p2
+fcircle 276,931 3 :p3
+fcircle 430,769 3 :p4
+fcircle 734,449 3 :p5
+fcircle 341,849 3 :p6
+fcircle 482,614 3 :p7
+fcircle 405,123 3 :p8
+fcircle 870,454 3 :p9
+fcircle 737,389 3 :p10
+fcircle 190,253 3 :p11
+fcircle 655,82 3 :p12
+fcircle 562,104 3 :p13
+fcircle 684,616 3 :p14
+fcircle 268,355 3 :p15
+fcircle 742,790 3 :p16
+fcircle 585,373 3 :p17
+fcircle 418,794 3 :p18
+fcircle 362,274 3 :p19
+fcircle 484,22 3 :p20
+fcircle 615,736 3 :p21
+fcircle 246,876 3 :p22
+fcircle 108,128 3 :p23
+fcircle 148,478 3 :p24
+fcircle 471,96 3 :p25
+fcircle 235,138 3 :p26
+fcircle 752,760 3 :p27
+fcircle 11,71 3 :p28
+fcircle 782,29 3 :p29
+fcircle 646,183 3 :p30
+fcircle 416,461 3 :p31
+fcircle 739,235 3 :p32
+fcircle 209,66 3 :p33
+fcircle 528,958 3 :p34
+fcircle 333,473 3 :p35
+fcircle 914,164 3 :p36
+fcircle 743,708 3 :p37
+fcircle 243,692 3 :p38
+fcircle 395,261 3 :p39
+fcircle 39,764 3 :p40
+# insert here your solution instead of 1 2 3 ... 
+line (p1) (p2)
+line (p2) (p3)
+line (p3) (p4)
+line (p4) (p5)
+line (p5) (p6)
+line (p6) (p7)
+line (p7) (p8)
+line (p8) (p9)
+line (p9) (p10)
+line (p10) (p11)
+line (p11) (p12)
+line (p12) (p13)
+line (p13) (p14)
+line (p14) (p15)
+line (p15) (p16)
+line (p16) (p17)
+line (p17) (p18)
+line (p18) (p19)
+line (p19) (p20)
+line (p20) (p21)
+line (p21) (p22)
+line (p22) (p23)
+line (p23) (p24)
+line (p24) (p25)
+line (p25) (p26)
+line (p26) (p27)
+line (p27) (p28)
+line (p28) (p29)
+line (p29) (p30)
+line (p30) (p31)
+line (p31) (p32)
+line (p32) (p33)
+line (p33) (p34)
+line (p34) (p35)
+line (p35) (p36)
+line (p36) (p37)
+line (p37) (p38)
+line (p38) (p39)
+line (p39) (p40)
+line (p40) (p1)
